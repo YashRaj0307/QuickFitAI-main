@@ -1,2 +1,3 @@
 [2025-12-26T09:07:00] feat: initialize project structure and base configuration
 [2025-12-27T09:23:00] chore: add .gitignore with common exclusion patterns
+[2025-12-29T09:41:00] docs: write initial README with project overview and setup guide
