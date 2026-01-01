@@ -3,3 +3,4 @@
 [2025-12-29T09:41:00] docs: write initial README with project overview and setup guide
 [2025-12-30T09:58:00] feat: scaffold main application entry point and routing
 [2025-12-31T10:13:00] feat: create database schema for users and sessions
+[2026-01-01T10:27:00] chore: install and configure ESLint with Airbnb ruleset
