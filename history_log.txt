@@ -5,3 +5,4 @@
 [2025-12-31T10:13:00] feat: create database schema for users and sessions
 [2026-01-01T10:27:00] chore: install and configure ESLint with Airbnb ruleset
 [2026-01-03T10:44:00] feat: implement user registration API endpoint
+[2026-01-04T11:02:00] feat: add password hashing using bcrypt with salt rounds
