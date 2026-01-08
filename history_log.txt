@@ -8,3 +8,4 @@
 [2026-01-04T11:02:00] feat: add password hashing using bcrypt with salt rounds
 [2026-01-05T11:19:00] test: write unit tests for user registration logic
 [2026-01-07T11:35:00] fix: resolve null pointer exception in registration handler
+[2026-01-08T11:53:00] feat: build login endpoint with JWT token generation
