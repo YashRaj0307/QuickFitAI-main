@@ -9,3 +9,4 @@
 [2026-01-05T11:19:00] test: write unit tests for user registration logic
 [2026-01-07T11:35:00] fix: resolve null pointer exception in registration handler
 [2026-01-08T11:53:00] feat: build login endpoint with JWT token generation
+[2026-01-09T12:08:00] feat: add token refresh mechanism with expiry validation
