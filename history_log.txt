@@ -11,3 +11,4 @@
 [2026-01-08T11:53:00] feat: build login endpoint with JWT token generation
 [2026-01-09T12:08:00] feat: add token refresh mechanism with expiry validation
 [2026-01-10T13:14:00] test: add integration tests for login and token endpoints
+[2026-01-12T13:31:00] fix: correct JWT secret key not loading from environment file
