@@ -19,3 +19,4 @@
 [2026-01-18T14:51:00] docs: document all authentication API endpoints with examples
 [2026-01-20T15:07:00] chore: upgrade dependency versions and resolve audit warnings
 [2026-01-21T15:23:00] feat: implement file upload service using cloud storage
+[2026-01-22T15:39:00] feat: add image compression before upload to reduce storage cost
