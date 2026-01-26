@@ -22,3 +22,4 @@
 [2026-01-22T15:39:00] feat: add image compression before upload to reduce storage cost
 [2026-01-23T15:54:00] fix: handle edge case when uploaded file exceeds size limit
 [2026-01-25T16:08:00] test: write tests for file upload service and error handling
+[2026-01-26T16:24:00] refactor: replace callbacks with async/await in upload module
