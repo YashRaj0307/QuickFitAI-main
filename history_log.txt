@@ -25,3 +25,4 @@
 [2026-01-26T16:24:00] refactor: replace callbacks with async/await in upload module
 [2026-01-27T16:41:00] feat: create dashboard API returning user activity summary
 [2026-01-29T16:57:00] feat: add pagination support to dashboard activity feed
+[2026-01-30T17:12:00] fix: dashboard query returning duplicate records on page 2+
