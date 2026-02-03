@@ -28,3 +28,4 @@
 [2026-01-30T17:12:00] fix: dashboard query returning duplicate records on page 2+
 [2026-01-31T17:29:00] perf: add database index on user_id and created_at columns
 [2026-02-01T17:43:00] feat: implement search functionality with keyword filtering
+[2026-02-03T09:11:00] feat: add filter options for date range and category in search
