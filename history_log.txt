@@ -31,3 +31,4 @@
 [2026-02-03T09:11:00] feat: add filter options for date range and category in search
 [2026-02-04T09:34:00] test: write tests for search endpoint with various query params
 [2026-02-05T09:52:00] fix: search returning incorrect results for special characters
+[2026-02-07T10:06:00] refactor: move database query logic from controller to service layer
