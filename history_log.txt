@@ -33,3 +33,4 @@
 [2026-02-05T09:52:00] fix: search returning incorrect results for special characters
 [2026-02-07T10:06:00] refactor: move database query logic from controller to service layer
 [2026-02-08T10:31:00] feat: build notification system with in-app and email delivery
+[2026-02-09T10:49:00] feat: add user preferences for notification frequency settings
