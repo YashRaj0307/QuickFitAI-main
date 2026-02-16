@@ -38,3 +38,4 @@
 [2026-02-12T11:22:00] test: write tests for notification dispatch and deduplication
 [2026-02-13T11:47:00] chore: configure CI/CD pipeline with GitHub Actions workflow
 [2026-02-14T12:03:00] chore: add Docker and docker-compose for local development
+[2026-02-16T13:09:00] docs: write deployment guide for staging and production environments
