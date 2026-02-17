@@ -39,3 +39,4 @@
 [2026-02-13T11:47:00] chore: configure CI/CD pipeline with GitHub Actions workflow
 [2026-02-14T12:03:00] chore: add Docker and docker-compose for local development
 [2026-02-16T13:09:00] docs: write deployment guide for staging and production environments
+[2026-02-17T13:28:00] feat: implement role-based access control (admin, editor, viewer)
