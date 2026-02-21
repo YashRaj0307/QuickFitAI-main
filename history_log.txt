@@ -42,3 +42,4 @@
 [2026-02-17T13:28:00] feat: implement role-based access control (admin, editor, viewer)
 [2026-02-18T13:44:00] fix: regular users able to access restricted admin-only routes
 [2026-02-19T14:01:00] test: add permission tests for all three user role levels
+[2026-02-21T14:17:00] refactor: centralize permission checks into a reusable guard function
