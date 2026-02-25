@@ -45,3 +45,4 @@
 [2026-02-21T14:17:00] refactor: centralize permission checks into a reusable guard function
 [2026-02-22T14:36:00] feat: integrate third-party OAuth login (Google and GitHub)
 [2026-02-23T14:53:00] fix: OAuth callback URL mismatch in production environment config
+[2026-02-25T15:11:00] test: write end-to-end tests for OAuth login flow
