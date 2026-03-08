@@ -54,3 +54,4 @@
 [2026-03-04T16:54:00] style: clean up unused imports and dead code across all modules
 [2026-03-06T17:08:00] docs: add inline JSDoc comments to all service and util functions
 [2026-03-07T17:27:00] test: achieve 80% code coverage threshold across the codebase
+[2026-03-08T17:44:00] feat: build CSV and PDF export for user reports
