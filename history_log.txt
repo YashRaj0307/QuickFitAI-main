@@ -55,3 +55,4 @@
 [2026-03-06T17:08:00] docs: add inline JSDoc comments to all service and util functions
 [2026-03-07T17:27:00] test: achieve 80% code coverage threshold across the codebase
 [2026-03-08T17:44:00] feat: build CSV and PDF export for user reports
+[2026-03-10T09:16:00] fix: PDF export crashing when report data contains null fields
