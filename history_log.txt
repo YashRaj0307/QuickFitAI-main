@@ -58,3 +58,4 @@
 [2026-03-10T09:16:00] fix: PDF export crashing when report data contains null fields
 [2026-03-11T09:38:00] perf: optimize slow SQL query in report generation by 65%
 [2026-03-12T09:57:00] chore: add pre-commit hooks to enforce linting before each commit
+[2026-03-13T10:18:00] feat: implement soft delete for users to preserve referential data
