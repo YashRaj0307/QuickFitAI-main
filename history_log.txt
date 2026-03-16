@@ -60,3 +60,4 @@
 [2026-03-12T09:57:00] chore: add pre-commit hooks to enforce linting before each commit
 [2026-03-13T10:18:00] feat: implement soft delete for users to preserve referential data
 [2026-03-15T10:42:00] refactor: unify error response format across all API endpoints
+[2026-03-16T11:04:00] fix: 500 error thrown on invalid UUID format in request params
