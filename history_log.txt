@@ -64,3 +64,4 @@
 [2026-03-17T11:31:00] test: add negative test cases for malformed input across endpoints
 [2026-03-19T11:48:00] feat: add rate limiting middleware to prevent API abuse
 [2026-03-20T12:11:00] fix: rate limiter not resetting correctly after TTL expiration
+[2026-03-21T13:22:00] docs: update API reference with new rate limiting headers
